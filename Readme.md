@@ -10,6 +10,4 @@ Please follow the steps below for building the app:
 
 This is a bsaic app as per the requirements specified. I actually wanted to include many more features into the app and make it like an actual app like "Netflix", but due to the time constraints such as my current 9-5 job and other commitments, couldn't do that. But I will continue to improve on this app in the coming days. 
 
-I have also attached a video of the showaround of the app for reference.
-
 Thanks!
